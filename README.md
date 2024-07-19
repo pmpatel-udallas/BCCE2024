@@ -12,4 +12,5 @@ Likewise, we will try to understand the big picture in our coding labs. Don't ge
   * How to import data from Excel (pandas)
   * How to plot data (matplotlib)
   * How to do linear regression (scipy.stats.linregress)
-* Part 2: Use your own Excel spreadsheet to model your data
+* Part 2: Use your own Excel spreadsheet to visualize your data in Python
+
