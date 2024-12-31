@@ -1,0 +1,19 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Transitioning from Excel to Python for Chemistry Lab Data
+  Analysis
+message: Workshop for BCEE 2024
+type: software
+authors:
+  - given-names: Prajay
+    family-names: Patel
+    email: pmpatel@udallas.edu
+    affiliation: University of Dallas
+    orcid: 'https://orcid.org/0000-0002-6763-6295'
+repository-code: 'https://github.com/pmpatel-udallas/BCCE2024.GIT'
+url: 'https://github.com/pmpatel-udallas/BCCE2024'
+license: CC0-1.0
+date-released: '2024-07-28'
